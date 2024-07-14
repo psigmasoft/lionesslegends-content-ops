@@ -7,7 +7,7 @@ sections:
       text: Lioness Legends
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: UEFA Euro 2022 Champions!
     text: >
       Get the latest news, views and match results for the England Women's
       football team, the Lionesses.
