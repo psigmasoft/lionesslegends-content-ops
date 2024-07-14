@@ -136,9 +136,7 @@ sections:
     title: null
     subtitle: Lioness T-shirts
     items:
-      - title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify Create.”
+      - title: “Pink England T-shirt.”
         tagline: Testimonial 6
         subtitle: 'Jane Doe, Company'
         text: >-
