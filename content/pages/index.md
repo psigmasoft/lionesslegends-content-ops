@@ -94,7 +94,7 @@ sections:
     media:
       title: Title of the video
       url: 'https://youtu.be/7ifX_BV-1Yk?si=ProRD-t3Kyyzs8tE'
-      autoplay: true
+      autoplay: false
       loop: true
       muted: true
       controls: false
