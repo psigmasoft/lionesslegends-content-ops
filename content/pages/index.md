@@ -51,7 +51,6 @@ sections:
           - pb-16
           - pr-16
   - posts:
-      - content/pages/blog/case-study-3.md
       - content/pages/blog/track-the-right-analytics-for-your-business.md
     showThumbnail: true
     showDate: true
