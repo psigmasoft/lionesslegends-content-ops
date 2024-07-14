@@ -139,10 +139,8 @@ sections:
       - title: “Pink England T-shirt.”
         tagline: Pink Tee
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Lovely pink England Lionesses T-shirt
         image:
           url: >-
             /images/england-mono-logo-graphic-t-shirt-pink-womens_ss4_p-13346265+u-r3hubr7i7xpdbe661hen+v-ea29c580a8a3499ebee0868ca3877f14.avif
