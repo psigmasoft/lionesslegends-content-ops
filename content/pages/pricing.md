@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: News
 slug: pricing
 sections:
   - title:
