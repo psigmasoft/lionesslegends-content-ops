@@ -137,7 +137,7 @@ sections:
     subtitle: Lioness T-shirts
     items:
       - title: “Pink England T-shirt.”
-        tagline: Testimonial 6
+        tagline: Pink Tee
         subtitle: 'Jane Doe, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
