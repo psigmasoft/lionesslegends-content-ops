@@ -3,7 +3,7 @@ title: News
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing
+      text: Latest news
       color: text-dark
       styles:
         self:
