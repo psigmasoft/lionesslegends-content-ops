@@ -12,7 +12,7 @@ sections:
       Get the latest news, views and match results for the England Women's
       football team, the Lionesses.
     actions:
-      - label: Get started
+      - label: Latest news
         altText: ''
         url: /
         showIcon: false
