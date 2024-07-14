@@ -11,38 +11,6 @@ sections:
       type: TitleBlock
     subtitle: This is the subtitle for the news section
     plans:
-      - title: Professional
-        price: $99
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-        image:
-          url: /images/abstract-feature2.svg
-          altText: Pricing plan 2
-          type: ImageBlock
-        actions:
-          - label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            type: Button
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-        type: PricingPlan
       - title: Enterprise
         price: Custom
         details: per month
