@@ -87,7 +87,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
+    subtitle: ''
     text: |
       Watch the latest England Lionesses highlights here
     actions: []
